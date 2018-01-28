@@ -16,7 +16,7 @@ Criar as operações INSERT, DELETE, UPDATE e SELECT, utilizando **knex**, **nod
 
 #### DELETE
 ```bash
-> node index.js INSERT 2
+> node index.js DELETE 2
 ```
 
 #### SELECT
